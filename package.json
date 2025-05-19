@@ -11,7 +11,6 @@
     "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
   },
-  "homepage": "https://devusm90/react-todo-app",
   "dependencies": {
     "bootstrap": "^5.3.6",
     "react": "^19.1.0",
